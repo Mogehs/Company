@@ -11,7 +11,6 @@ import {
 import useLocomotiveScroll from "./useLocomotiveScroll";
 import ContactUs from "./pages/ContactUs";
 import { ToastContainer } from "react-toastify";
-import Cursor from "./common/Cursor";
 
 const MainLayout = () => {
   useLocomotiveScroll();

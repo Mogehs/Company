@@ -13,7 +13,7 @@ const Hero = () => {
                   duration: 1.8,
                   ease: [0.76, 0, 0.24, 1],
                 }}
-                className="text-[3.2rem] md:text-[6.5rem] lg:text-[10.5vw] text-[#000000] font-bold leading-none md:leading-23 lg:leading-23 xl:leading-28 w-[90%] lg:w-[75%] mx-auto tracking-wider overflow-y-hidden"
+                className="text-[3.2rem] md:text-[6.5rem] lg:text-[10.5vw] text-[#000000] font-bold leading-none md:leading-23 lg:leading-28 xl:leading-30 w-[90%] lg:w-[75%] mx-auto tracking-wider overflow-y-hidden"
               >
                 {alpha}
               </motion.h1>
